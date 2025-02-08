@@ -4,14 +4,15 @@
 
 <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; white-space: nowrap;">
   <a href="https://github.com/98silverline">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=98silverline&show_icons=true&theme=buefy&card_width=200" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=98silverline&show_icons=true&theme=buefy&card_width=200" />
   </a>
   <a href="https://solved.ac/95dmstjs">
-    <img height=200 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95dmstjs" />
+    <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=95dmstjs" />
   </a>
 </div>
+
 
 
 </div>
